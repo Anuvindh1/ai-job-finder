@@ -1,5 +1,6 @@
 # AI Job Finder
 A smart AI-powered job search web app that searches real remote tech jobs across multiple sources and summarizes them using AI.
+
 ![Python](https://img.shields.io/badge/Python-3.13-blue)
 
 ![Flask](https://img.shields.io/badge/Flask-3.0-green)
