@@ -99,6 +99,5 @@ Results displayed as beautiful glass cards with filters
 - Resume match scoring
 ## 👨‍💻 Built By
 Anuvindh Rajeevan P — built as a portfolio project to learn Python, Flask, and AI API integration.
-Click the pencil icon to edit
 Delete everything and paste the text above
 Click "Commit changes"
